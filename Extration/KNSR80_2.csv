@@ -1,0 +1,19 @@
+,0,1,2,3,4
+0,,Streptococcus,Lactobacillus delbrueckii,Lactobacillus,Bifidobacterium
+1,Probiotic yoghurt,thermophilus,subsp.bulgaricus,acidophilus,animalis subsp.lactis
+2,YC,9.35  0.33d,8.78 0.12c,7.96  0.18c,7.77  0.32c
+3,YB,9.54  0.26c,8.69  0.31d,8.18  0.23b,7.63  0.40d
+4,YP,9.53  0.32c,8.89  0.37b,8.14  0.27b,7.67  0.71d
+5,YBP,9.38  0.42d,8.79  0.43c,8.19  0.36b,8.04  0.2gb
+6,YG,9.60  0.26b,8.95  0.23b,8.16  0.39b,8.10  0.44b
+7,YBG,9.75  0.39a,9.01  0.33a,8.50  0.41a,8.28  0.67a
+8,Storage time (day),,,,
+9,1,9.58  0.63a,9.34  0.54b,8.58  0.52a,8.00  0.48b
+10,7,9.43  0.56b,9.41  0.44a,8.13  0.68c,8.53  0.30a
+11,14,9.62  0.47a,8.38  0.29c,8.26  0.42b,7.85  0.29c
+12,21,9.47  0.55b,8.27  0.34d,7.78  0.30d,7.27  0.37d
+13,ANOVA,,,,
+14,Sample (S),**,**,**,**
+15,Storage,**,**,**,**
+16,time (D),,,,
+17,SD,**,**,**,**

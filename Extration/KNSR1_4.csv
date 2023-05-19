@@ -1,0 +1,32 @@
+,0,1,2,3,4
+0,,,Relative percentage,Relative percentage,
+1,,,content (%),,
+2,,,Blank,,
+3,,Compounds,sample,FXJ1,MJ
+4,Aldehydes,Acetaldehyde,NA,0.19,NA
+5,,2-methyl butyraldehyde,NA,0.45,NA
+6,,3-methyl butyraldehyde,NA,0.36,0.83
+7,,Benzaldehyde,0.34,0.21,0.65
+8,,Phenylacetaldehyde,NA,0.19,0.21
+9,Sum,,0.34,1.4,1.69
+10,Alcohols,2-methylpropanol,NA,2.76,1.02
+11,,Ethanol,NA,27.07,25.52
+12,,3-methylbutanol,1.38,3.71,3.62
+13,,Phenylethanol,NA,2.79,1.99
+14,Sum,,1.38,36.33,32.15
+15,Esters,Ethyl acetate,10.69,14.76,12.36
+16,,Ethyl propionate,3.18,0.66,NA
+17,,Ethyl butyrate,NA,0.98,0.81
+18,,Ethyl hexanoate,2.49,0.12,0.18
+19,,Octanoate,NA,0.29,NA
+20,,Decanoate,NA,NA,NA
+21,,Ethyl palmitate,NA,0.75,NA
+22,Sum,,16.36,17.56,13.35
+23,Ketones,2-heptanone,NA,0.16,0.35
+24,,3-hydroxybutanone,1.63,NA,NA
+25,Sum,,1.63,0.16,0.35
+26,Acid,Butyric acid,NA,NA,NA
+27,substances,Hexanoic acid,NA,0.97,1.21
+28,,Bitter,NA,NA,NA
+29,,3-methylacetic acid,NA,NA,NA
+30,Sum,,NA,0.97,1.21

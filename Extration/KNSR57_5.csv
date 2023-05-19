@@ -1,0 +1,16 @@
+,0,1,2,3,4
+0,,,,Loose bulk density,Loose bulk density
+1,,Solubility (%),,(kg/m3),
+2,Equation terms,Cow,Camel,Cow,Camel
+3,Linear terms,,,,
+4,XI,NS,NS,,NS
+5,X2,,,+,+
+6,X3,,,NS,
+7,Interactions,,,,
+8,XX2,NS,NS,NS,NS
+9,XX,NS,NS,NS,NS
+10,XX3,+,NS,+,NS
+11,Quadratic terms,,,,
+12,X?,NS,NS,NS,
+13,X2,,,,
+14,X3,NS,NS,NS,+

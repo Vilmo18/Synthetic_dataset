@@ -1,0 +1,11 @@
+,0,1,2,3,4,5
+0,,,Peak,,,
+1,,Peak melting,melting,Viscosity,,
+2,,time,viscosity,at 7 min,Peak set,Peak set
+3,Product,(min),(cP),(cP),(cP),
+4,Ground,3.400.29,18223,34419,4590101,4590101
+5,puff A,,,,,
+6,Ground,3.000.32,19819,35532,3478b75,3478b75
+7,puff B,,,,,
+8,Propylene,3.070.09,1474,1109,,1509
+9,glycol,,,,,

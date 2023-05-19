@@ -1,0 +1,8 @@
+,0,1,2,3,4
+0,Parameter,,Definition,,Calculation
+1,Sensitivity,Truly positive/known positive,,tp(tp+ fn+fup),
+2,Selectivity,Truly negative/known negative,,tn/(tn + fp+fun),
+3,Efficiency,(Truly positive + Truly negative + Truly uncertain)/Total sample,(Truly positive + Truly negative + Truly uncertain)/Total sample,(tp + tn+tu)/(tp + tn+tu + fp+fn + fun+fup),(tp + tn+tu)/(tp + tn+tu + fp+fn + fun+fup)
+4,False compliance rate,False negative/known negative,,fn/(tn + fn+fun),
+5,False noncompliance rate,False positive/known positive,,fp/(tp+ fp+fup),
+6,False nonattributable rate,False uncertain/known uncertain,False uncertain/known uncertain,fup + fun/(tu + fn+fp),fup + fun/(tu + fn+fp)

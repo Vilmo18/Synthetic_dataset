@@ -1,0 +1,17 @@
+,0,1,2,3,4,5,6
+0,,,,,,,Homogenisation
+1,Trials,,Material,Codes,,Heat treatment,pressureb
+2,I,Milk,,RM,No,,No
+3,,,,RMiS,After homogenisation,,15 MPa
+4,,,,RM20,After homogenisation,,20 MPa
+5,,,,PM15,Before homogenisation,,15 MPa
+6,,,,PM20,Before homogenisation,,20 MPa
+7,II,Cream,,RC,No,,No
+8,,,,RC15,After homogenisation,,15 MPa
+9,,,,RC20,After homogenisation,,20 MPa
+10,,,,PC15,Before homogenisation,,15 MPa
+11,,,,PC20,Before homogenisation,,20 MPa
+12,I1I,Mixture of homogenised,Mixture of homogenised,PC1s+PSM,,Raw cream separated from whole milk was homogenised under 15 or,15 MPa
+13,,cream and heat-treated,cream and heat-treated,PC2o+PSM,,20 MPa pressure and then heat-treated.Skimmed milk was,20 MPa
+14,,skimmed milk,skimmed milk,,,"separately heat-treated. Afterwards, homogenised and pasteurised",
+15,,,,,,cream was mixed with pasteurised skimmed milk,

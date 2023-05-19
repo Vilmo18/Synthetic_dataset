@@ -1,0 +1,17 @@
+,0,1,2,3,4,5
+0,,Dietary treatment',Dietary treatment',,,
+1,Parameter,A,B,c,D,SEM
+2,AFB intake(g/day,0,1012.7a,1061.9a,979.9a,78.12
+3,Dry matter intake,26.9a,24.7c,25.9b,23.9c,0.23
+4,(kg/day),,,,,
+5,Milk production,29.1ab,27.1b,30.2a,30.0a,0.38
+6,(kg/day),,,,,
+7,3.5%FCM(kg/day,23.3b,25.7a,25.2a,26.6a,0.24
+8,Milk composition,,,,,
+9,Total protein%,2.91a,3.05a,2.94a,3.01a,0.03
+10,Fat%),3.06a,3.22a,3.19a,3.25a,0.09
+11,Lactose%,4.90a,4.86a,4.94a,4.90a,0.05
+12,AFM in milk,,,,,
+13,Concentration3,<LOD,194.2a,152.6b,131.2b,18.72
+14,(ng/L),,,,,
+15,Carry-over4 %),0,0.52a,0.43b,0.40b,0.08

@@ -1,0 +1,34 @@
+,0,1,2,3,4
+0,Descriptor,Definition,Scales and references,,
+1,Appearance,,,,
+2,Whey,Visual observation of whey,Absence (0),Amount as a,Amount as a
+3,presence,,,teaspoon (10),teaspoon (10)
+4,Mouth texture,,,,
+5,Friability,Ability to generate cheese fragments from the beginning of chewing,Skimmed plain yoghurt,Curd brand,Curd brand
+6,,,brand Larsa'(0,Asturiana'10,Asturiana'10
+7,Solubility,Ability of the sample to melt with saliva,Curd Asturiana(5,,
+8,Moistness,Perception of water absorbed or released by the product during early,Banana (0),Skimmed plain,Skimmed plain
+9,,mastication,,yogurt brand,yogurt brand
+10,,,,Larsa10,Larsa10
+11,Graininess,Perception of coarse particles in the mouth,Whey cheese brand Arquega'5,,
+12,Floury,Perception of floury texture in the mouth,Ripe golden apple (0,Canned beans,Canned beans
+13,,,,,without skin
+14,,,,(10,(10
+15,Creaminess,Perception of thickness and smoothness pressing the sample between the,Skimmed plain yoghurt (0Spreadable,Skimmed plain yoghurt (0Spreadable,Skimmed plain yoghurt (0Spreadable
+16,,tongue and palate,,cheese brand,cheese brand
+17,,,,Philadelphia',Philadelphia'
+18,,,,(10),
+19,Taste and aroma,,,,
+20,Acid taste,Basic taste similar to that of diluted aqueous solutions of citric acid,0.13g/L5,,
+21,Salty taste,Basic taste similar to that of diluted aqueous solutions of sodium chloride,0.70 g/L (5),,
+22,Bitter taste,Basic taste similar to that of diluted aqueous solutions of caffeine,0.54 g/L (5),,
+23,Fresh cheese,Intensity of the olfactory-gustatory sensation perceived during mastication,Commercial cheese Burgos-type (5),Commercial cheese Burgos-type (5),
+24,flavour,associated with typical aroma of fresh cheese,,,
+25,Milk flavour,Intensity of the olfactory-gustatory sensation perceived during mastication,Absence (0),,Full fat
+26,,associated with raw milk at room temperature,,,milk(10)
+27,Strange,No typical aromas related to fresh cheese,Absence (0),,Intense
+28,flavor,,,,(10
+29,Aftertaste,Intensity of the olfactory-gustatory sensation perceived after mastication and,Absence (0),,Intense
+30,,swallowing the sample,,,(10
+31,Persistency,Duration of the olfactory-gustatory sensation perceived after the bolus leaves,10 s (0,60 s (10),60 s (10)
+32,,the mouth,,,

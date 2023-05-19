@@ -1,0 +1,24 @@
+,0,1,2,3,4,5
+0,,,Preparation conditions of the yoghurt samples,,Preparation conditions of the yoghurt samples,Preparation conditions of the yoghurt samples
+1,,,Amplitude of,,Sonication,Sonication
+2,Sample code,ultrasound(%),ultrasound(%),temperature(C),temperature(C),time (min)
+3,F1,,Control sample treated at 90 C for 10 min without,,Control sample treated at 90 C for 10 min without,Control sample treated at 90 C for 10 min without
+4,,ultrasound,ultrasound,,,
+5,F2,50,,45,,5
+6,F3,50,,45,,10
+7,F4,50,,45,,15
+8,F5,50,,55,,5
+9,F6,50,,55,,10
+10,F7,50,,55,,15
+11,F8,50,,65,,5
+12,F9,50,,65,,10
+13,F10,50,,65,,15
+14,Fl1,75,,45,,5
+15,F12,75,,45,,10
+16,F13,75,,45,,15
+17,F14,75,,55,,5
+18,F15,75,,55,,10
+19,F16,75,,55,,15
+20,F17,75,,65,,5
+21,F18,75,,65,,10
+22,F19,75,,65,,15

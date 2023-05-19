@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6
+0,Probiotic yoghurt,Firmness (g),Consistency (g s),Viscosity index (g s),Cohesiveness (g),,Spontaneous syneresis (ml/25 g)
+1,C,252.05a,5288.79c,-218.63b,-124.26b,8.00a,8.00a
+2,CB,254.44a,5398.45b,-240.97a,-121.02b,7.06c,7.06c
+3,CBS,247.88a,5331.01b,238.66a,-115.60b,7.22bc,7.22bc
+4,CBT,274.17a,5762.93a,247.99a,142.36a,7.06c,7.06c
+5,Storage time (T),,,,,,
+6,1,254.64a,5428.76b,221.90a,-121.84a,8.19a,8.19a
+7,14,272.21a,5682.40ab,-247.57b,-130.53a,7.69b,7.69b
+8,28,259.56a,5749.72a,240.22b,-115.06a,7.14c,7.14c
+9,Anova,,,,,,
+10,Sample (S),ns,**,*,**,**,
+11,Storage time (T),ns,**,*,ns,**,
+12,S*T,ns,**,**,**,**,

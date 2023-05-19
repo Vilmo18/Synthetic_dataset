@@ -1,0 +1,7 @@
+,0,1,2,3,4,5
+0,,No.of,,No. of samples (%) with categorised antibody titres,,No.of positive
+1,Season,samples (%),Positive,Negative,Susceptible,samples in PCR (%)
+2,Winter,35 (38.04),23 (25),8 (8.69),4 (4.34),4 (4.34)
+3,Spring,37 (40.21),23 (25),10 (10.86),4 (4.34),2 (2.17)
+4,Summer,20 (21.73),12 (13.04),3 (3.26),5 (5.43),0(0
+5,Total,92 (100),58 (63.04),21 (22.82),13 (14.13),6 (6.52)

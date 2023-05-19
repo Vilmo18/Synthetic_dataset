@@ -1,0 +1,8 @@
+,0,1,2
+0,Parameters,NOLATM Fit 5500,Ha-Lactase 2100
+1,pH Value,6.0,6.5
+2,Temperature,50,45
+3,Substrate,"300,400,500g/L","300,400,500g/L"
+4,concentration,,
+5,Enzyme/substrate,10 or 80 BLU/g,10 or 80 NLU/g
+6,ratio,lactose,lactose

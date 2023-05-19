@@ -1,0 +1,24 @@
+,0,1,2,3
+0,Number,Country,Samples,Type of milk powder
+1,,Argentina,A,Whole
+2,,,B,
+3,2,France,A,Skimmed
+4,,,B,
+5,,,C,
+6,3,New Zealand,A,Whole
+7,,,B,
+8,,,C,
+9,4,Ireland,A,Whole
+10,,,B,
+11,,,C,
+12,5,Netherlands,A,Whole
+13,,,B,
+14,6,Belgium,A,Whole
+15,,,B,Skimmed
+16,7,Germany,A,Whole
+17,,,B,Skimmed
+18,8,India,A,Skimmed
+19,9,Ukraine,A,Skimmed
+20,10,Denmark,A,Skimmed
+21,Total,Different origins 10,,
+22,,Number of samples 21,Number of samples 21,

@@ -1,0 +1,16 @@
+,0,1,2,3
+0,Probiotic,Lactobacillus casei,Acidity,
+1,yoghurt,log1o CFU/g,(%La),pH
+2,C,9.76ab,1.0gab,4.31a
+3,CB,9.89a,1.17a,4.15c
+4,CBS,9.87a,0.95bc,4.18c
+5,CBT,9.80a,1.14a,4.24b
+6,Storage time T,,,
+7,1,9.75a,0.92b,4.50a
+8,14,9.79a,1.02b,4.20b
+9,28,9.80a,1.31a,3.97c
+10,Anova,,,
+11,Sample (S),*,*,**
+12,Storage time,ns,**,**
+13,(T),,,
+14,S*T,ns,ns,*

@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6,7,8
+0,,,Total,,Ethanol,,Coliform,Mold,Yeast
+1,Yeasts,Protein (%),solids (%),pH,content (%),TVC(CFU/mL),count (MPN/mL),count(CFU/mL),count (CFU/mL)
+2,Quality,0.8,8,4.4,0.5%(w/w),1 x 104,0.3,30,50
+3,standards,,,,,,,,
+4,FXJ1,0.90,8.4,4.25,0.48,1.52  103,0.22,18,28
+5,MJ,0.86,8.2,4.13,0.46,2.46  103,0.17,17,25

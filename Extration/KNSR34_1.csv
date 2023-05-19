@@ -1,0 +1,25 @@
+,0,1,2,3,4
+0,Attribute,type,and,,
+1,attributes,,,Description,Reference
+2,Flavour,,,,
+3,Cooked,,,Aromatics associated with cooked milk,Skimmed milk heated to 85 C for 30 min
+4,Whey,,,Aromatics associated with cheddar cheese whey,Solubilise 5 g whey powder in 100 mL
+5,,,,,water
+6,Sulfur,,,Aromatics associated with sulfurous compounds,Boiled mashed egg
+7,Free fatty acid,Free fatty acid,,Aromatics associated with short chain fatty acids,"Butyric acid,20 ppm"
+8,Cowy/phenolic,Cowy/phenolic,,"Aromas associated with barns and stock trailers,indicative of animal","p-Cresol, 160 ppm, bandaids"
+9,,,,sweat and waste,
+10,Animal-like,,,Aromatics associated with barns and stock,5% Na-caseinate solution in water
+11,Waxy/crayon,Waxy/crayon,,Aromatics associated with medium chain fatty acids,"Capric acid, lauric acid or decanoic acid"
+12,,,,,100 mg/mL
+13,Cream,,,Intensity of raw cream aroma,Cream or butter
+14,Butter,,,Intensity of butter flavour,"3-Hydroxy-2-butanone, 2 ppm"
+15,Old milk,,,Intensity of old milk aroma,"Decanoic acid, 6 ppm"
+16,Texture and mouthfeel,Texture and mouthfeel,Texture and mouthfeel,,
+17,Hardness,,,"Softness/hardness of cheese mass,determined by fingers",6-Processed cheese10-White cheese
+18,Surface film,,,Sensation of a film on the surface between two fingers,1-White cheese;6-Processed cheese
+19,Stickiness,,,Sticky cheese sticks to teeth and mouth surfaces,1-White cheese;6-Processed cheese
+20,Friability,,,Ability to crumble when chewed,6-Processed cheese10-White cheese
+21,Solubility,,,Property of a sample that quickly melts in the mouth,1-White cheese;6-Processed cheese
+22,Firmness,,,Perceived firmness of the sample evaluated in the mouth,1-White cheese;6-Processed cheese
+23,Graininess,,,Perceived graininess of the sample evaluated in the mouth,1-Processed cheese;10-White cheese

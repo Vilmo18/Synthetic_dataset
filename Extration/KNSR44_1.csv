@@ -1,0 +1,17 @@
+,0,1,2,3,4
+0,Sample weight,Extraction,Purification,Detection,Reference
+1,10 g,Dichloromethane,IMA column,FLD 360/430 nm,Cattaneo et al.2011
+2,10 g,Acetone,IMA column,Post-column,
+3,,,,derivatisation,
+4,,,,FLD 362/440 nm,
+5,5 g,Enzymatic digestion,IMA column,FLD 365/440 nm,
+6,20g,Chloroform,IMA column,FLD 360/440 nm,
+7,20 g,Chloroform,Polar weakly basic,TFA derivatisation,
+8,,,silica gel columns,FLD 366/430 nm,
+9,10 g,Dichloromethane/acetone,C18-SPE column,FLD 365/435 nm,
+10,15 g,"Chloroform, diatomaceous",IMA column,TFA derivatisation,Hernandez-Camarillo et al.(2016
+11,,"earth,NaCl",,FLD 360/440 nm,
+12,15g,80% methanol and NaCl,IMA column,,
+13,15g,Acetone,SPE Carbograph-4,,
+14,8g,Methanol/water,IMA column,FLD 360/460 nm,Iha et al.(2013)
+15,10g,Celite and Dichloromethane,IMA column,FLD 365/435 nm,Iqbal and Asi (2013)

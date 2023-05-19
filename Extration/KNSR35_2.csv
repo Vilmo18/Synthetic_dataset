@@ -1,0 +1,11 @@
+,0,1,2,3,4
+0,,,Temperature,,D-value (s)
+1,Organism,Medium,(C,Control,Treatmer
+2,G. stearothermophilus,TSB,72,129.35a,25.16c
+3,,,73,60.03b,21.99c
+4,,Milk,72,119.98A,19.98c
+5,,,73,77.65B,18.68C
+6,A.flavithermus,TSB,72,70.81a,44.39b
+7,,,73,48.41ab,36.91b
+8,,Milk,72,88.22A,38.54B
+9,,,73,56.11AB,36.89B

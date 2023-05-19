@@ -1,0 +1,8 @@
+,0,1,2,3,4
+0,Powder characteristic,Models*,R2,Adjusted R2,C.V(%
+1,Solubility (%),,,,
+2,Cow milk,=-23.5+9.2X-0.38X+0.2XX-31X,0.94,0.87,3.76
+3,Camel milk,=+98.87-7.2X-0.20X-23.4X,0.92,0.81,3.66
+4,Loose bulk density (kg/m3),,,,
+5,Cow milk,=-280.1+4.62X-155.31X+0.95XX-58.6X,0.93,0.83,4.17
+6,Camel milk,=-1760.3+263.4X-0.30X-0.06X-132.0X+0.006X,0.94,0.86,4.06

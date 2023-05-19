@@ -1,0 +1,17 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,Significantly differing metabolites between milk samples,Significantly differing metabolites between milk samples,,Significantly differing metabolites between milk samples,,,,,
+1,Sl.,,Retention,time,,Molecular,for-,Metabolite type,Fold,
+2,No.,Row m/z,(min),,ldentity of differential metabolites,mula,,1,change,P value
+3,b. Increased in clinical mastitis group,b. Increased in clinical mastitis group,b. Increased in clinical mastitis group,,,,,,,
+4,,360.1919,5.39,,Pro Pro Phe,C1gH2sNO4,,PP,2.81,0.0123
+5,,211.1488,7.45,,Pro Ile,CH2oNO,,PP,4.16,0.0227
+6,,256.1775,4.93,,Val Arg,CH23NO3,,PP,3.28,0.0355
+7,,566.317,7.45,,Phe Phe Pro Arg,"C2gH3gN,O5",,PP,3.06,0.0461
+8,,"6. Subclinical vs. clinical mastitis cows,negative ion mode analysis","6. Subclinical vs. clinical mastitis cows,negative ion mode analysis",,"6. Subclinical vs. clinical mastitis cows,negative ion mode analysis",,,,,
+9,a. Reduced in clinical mastitis group,a. Reduced in clinical mastitis group,a. Reduced in clinical mastitis group,,,,,,,
+10,,451.379,3.88,,5-Tetradecenoic acid,C14H2O2,,LL,5.04,1.63  10-14
+11,,677.4259,4.82,,PA[15:19Z/20:5,C3gH63OgP,,LL,2.76,1.7810-14
+12,,,,,"(5Z,8Z,11Z,14Z,17Z)]2",,,,,
+13,b. Increased in clinical mastitis group,b. Increased in clinical mastitis group,b. Increased in clinical mastitis group,,,,,,,
+14,,247.1259,12.92,,Leu Ala,CHgNO3,,PP,172,1.10 x 10-16
+15,,409.3068,11.99,,N-oleoyl glutamine,C23H42NO4,,0,2.88,0.00013

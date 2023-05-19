@@ -1,0 +1,7 @@
+,0,1,2,3,4
+0,Hormone,Range(ng/kg),Average(ng/kg),Detection rate (%,LOQ(ng/kg)
+1,Progesterone,204-26 503,12 680,95.59,100
+2,Cortisol,214-1800,284,35.29,100
+3,Testosterone,<200,<200,6.37,200
+4,Methyltestosterone,<500,<500,2.45,500
+5,17-Oestradiol(E,ND,,-,500

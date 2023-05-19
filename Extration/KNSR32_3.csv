@@ -1,0 +1,50 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,Significantly differing metabolites between milk samples,,,Significantly differing metabolites between milk samples,,,,,
+1,Sl.,,Retention,time,,Molecular,for-,Metabolite type,Fold,
+2,No.,Row m/z,(min),,Identity of differential metabolites,mula,,1,change,Pvalue
+3,,"1. Healthy vs. clinical mastitis cows,positive ion mode analysis",,,"1. Healthy vs. clinical mastitis cows,positive ion mode analysis",,,,,
+4,a. Reduced in clinical mastitis group,a. Reduced in clinical mastitis group,a. Reduced in clinical mastitis group,,,,,,,
+5,,209.0708,4.91,,Indolylacryloylglycine,C1HNO,,SM,3.7,0.01463
+6,,246.1707,4.53,,2-Methylbutyroylcarnitine,C2H23NO4,,LL,2.01,0.01974
+7,,165.0547,1.28,,4-Hydroxyphenyllactate,CHoO4,,AA/SM,3.19,0.00312
+8,,162.1123,0.57,,1-Carnitine,CH5NO,,LL,2.07,0.04857
+9,b.Increased in clinical mastitis group,b.Increased in clinical mastitis group,b.Increased in clinical mastitis group,,,,,,,
+10,,239.1512,4.86,,Gln-Lys,CH22N4O4,,PP,13.44,0.00021
+11,,263.1398,5.34,,Tyrosyl-valine,C14H2oNO4,,PP,7.09,0.00044
+12,,132.1025,2.44,,1-Isoleucine,CH4NO,,AA,9.21,0.00087
+13,,342.2381,6.89,,Leu-Pro-Ile,CHNO4,,PP,16.84,0.00152
+14,,"2. Healthy vs. clinical mastitis cows, negative ion mode analysis",,,"2. Healthy vs. clinical mastitis cows, negative ion mode analysis",,,,,
+15,a. Reduced in clinical mastitis group,a. Reduced in clinical mastitis group,a. Reduced in clinical mastitis group,,,,,,,
+16,,285.2284,9.17,,Retinol,C2oH3oO,,Vit,2.94,0.00179
+17,,564.4076,4.42,,PC21:0/0:02,"C2gH6oNO,P",,LL,3.06,9.10x 10-11
+18,,178.05,4.31,,Hippurate,CgHNO3,,AA,3.87,6.31 10-7
+19,,296.1016,0.67,,2-Methylguanosine,CH5NO5,,NT,7.37,4.4710-5
+20,b. Increased in clinical mastitis group,b. Increased in clinical mastitis group,b. Increased in clinical mastitis group,,,,,,,
+21,,215.068,5.78,,Thr Asp,CgH4NO6,,PP,27.94,5.85  10-9
+22,,435.3101,11.97,,Ile Ile Ile Pro,C2H42N4O5,,PP,39.8,1.86  10-8
+23,,556.3235,11.97,,Leu Arg Asn Arg,C22H43N1O6,,PP,28.56,5.4010-7
+24,,155.0984,0.88,,l-Arginine,CH4N4O2,,AA,2.66,2.69x 10-5
+25,,"3.Healthy vs. subclinical mastitis cows, positive ion mode analysis",,,"3.Healthy vs. subclinical mastitis cows, positive ion mode analysis",,,,,
+26,,a. Reduced in subclinical mastitis group,a. Reduced in subclinical mastitis group,a. Reduced in subclinical mastitis group,,,,,,
+27,,105.0311,4.38,,Benzoic acid,CHO2,,AA,2.27,0.00096
+28,,162.1115,0.57,,l-Carnitine,CHsNO3,,LL,2.75,0.00556
+29,,209.0709,4.91,,Indolylacryloylglycine,CHNO,,SM,2.7,0.018
+30,,b.Increased in subclinical mastitis group,b.Increased in subclinical mastitis group,b.Increased in subclinical mastitis group,,,,,,
+31,,425.2122,12.87,,Lys Asp Tyr,CgH2gN4O7,,PP,3.96,8.45 10-8
+32,,213.0744,12.89,,l-Arginine,CH4N4O2,,AA,2.66,0.00019
+33,,209.1648,5.74,,Leucyl-Leucine,C12H24NO3,,PP,2.43,0.00049
+34,,"4. Healthy vs. subclinical mastitis cows,negative ion mode analysis",,,"4. Healthy vs. subclinical mastitis cows,negative ion mode analysis",,,,,
+35,,a. Reduced in subclinical mastitis group,a. Reduced in subclinical mastitis group,a. Reduced in subclinical mastitis group,,,,,,
+36,,211.1943,4.86,,Capryloylcholine,C3H2gNO2,,LL,Infinity,0
+37,,219.0819,1.28,,5-Hydroxy-l-tryptophan,CHNO,,,416.56,
+38,,435.1013,11.97,,Cys Cys Asp Pro,C5H4N4OS2,C5H4N4OS2,PP,3.3,1.1210-7
+39,,b. Increased in subclinical mastitis group,b. Increased in subclinical mastitis group,b. Increased in subclinical mastitis group,,,,,,
+40,,255.0035,1.05,,2-Thiouracil,C4HNOS,,0,4.95,4.93 x10-13
+41,,155.0984,0.88,,L-Arginine,CH4N4O,,AA,6.72,5.81x10-13
+42,,330.2341,8.73,,Ile Val Val,CHNO4,,PP,3.58,0.00058
+43,,"5. Subclinical vs. clinical mastitis cows, positive ion mode analysis",,,"5. Subclinical vs. clinical mastitis cows, positive ion mode analysis",,,,,
+44,a. Reduced in clinical mastitis group,a. Reduced in clinical mastitis group,a. Reduced in clinical mastitis group,,,,,,,
+45,,216.0639,4.96,,2-Methylhippuric acid,CoHNO,,AA,3.81,8.88 x 10-5
+46,,261.0375,0.55,,Glucose 1-phosphate,CH3OP,,C/E,2.76,0.00016
+47,,119.0477,1.25,,2-Methylbenzoic acid,CgHgO2,,SM,2.64,0.00022
+48,,365.1052,0.59,,D-Lactose,C2H22O11,,C/E,2.52,0.00057

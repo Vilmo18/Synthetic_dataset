@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,,Chemical composition (g/kg DM,Chemical composition (g/kg DM,Chemical composition (g/kg DM,,,,,phenolic profile(g/kg DM,phenolic profile(g/kg DM,,
+1,Item,DM,OM,CP,Ash,EE,NDF,ADF,TPH,TT,CT,HT
+2,OL,961a,920b,104.7a,4.5,55.4b.,320.3b,190.9b,41.23a,27.2a,21.24a,5.96a
+3,GP,913b,809a,76.6b,5.7,78.8a,329.9a,239.8a,9.34b,5.48b,0.97b,4.50b
+4,SEM,2,2.37,0.91,0.55,0.68,0.69,1.39,0.53,0.78,0.25,0.24
+5,P-value,0.0035,0.0003,0.002,0.287,0.002,0.012,0.002,0.0006,0.003,0.0003,0.049

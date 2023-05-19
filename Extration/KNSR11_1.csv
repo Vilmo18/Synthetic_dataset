@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6,7,8
+0,,,,Carbohydrates (mass%),Carbohydrates (mass%),,,,
+1,,,,Lactose,,Sucrose,,Total carbohydrates,Total carbohydrates
+2,Products,Brand,Method,Mean*,SD,Mean*,SD,Mean*,SD
+3,Dulce de leche,1,HPLC,11.098a,0.683,37.203a,0.883,48.301a,1.198
+4,,,Lane-Eynon,10.547b,0.727,31.643b,1.618,42.190b,2.134
+5,,,Chloramine-T,"11.039a,b",0.987,36.170a,4.455,47.209a,5.372
+6,,2,HPLC,11.833b,1.260,41.791a,2.896,53.625a,3.406
+7,,,Lane-Eynon,11.516b,0.390,33.717b,2.522,45.233b,2.676
+8,,,Chloramine-T,13.717a,1.145,39.913a,1.251,53.630a,1.109
+9,Sweetened condensed milk,1,HPLC,11.934a,0.865,49.581a,2.096,61.515a,1.532
+10,,,Lane-Eynon,9.903b,0.936,41.406b,1.505,51.309b,1.474
+11,,,Chloramine-T,12.369a,1.617,49.423a,3.638,61.793a,5.001
+12,,2,HPLC,12.368b,1.027,46.882a,1.313,59.251a,1.613
+13,,,Lane-Eynon,10.717c,0.449,38.186c,2.009,48.902b,2.031
+14,,,Chloramine-T,13.809a,1.453,44.437b,2.983,58.246a,4.363

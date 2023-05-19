@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6,7,8,9
+0,,,Food,Recovery,Linear range,LOD,,,,
+1,Instrumentation,Extraction method,samples,(%),(ng/g,(ng/g),RSD (%),R2,EF,Ref.
+2,HPLC,Derivatisation-SPE,Cheese,>85,90-500 000,90-1260,1.5-6.1,>0.9990,,Liu et al.2018
+3,HPLC,Magnetic-SPE,Dairy,97-104,0.05-150,8-14,0.2-4.1,>0.9930,,"Molaei,et al.2019"
+4,,,products,,,,,,,
+5,IC-MS/MS,Derivatisation,Cheese,23.6-101.9,5-100000,12-5400,<10,0.9994,,"Scavnicar,et al.2018"
+6,HPLC-FLD,SALLE,Cheese,94-110,100-100 000,0.02-1.77,1.7-11.4,0.9926,,Ramos et al.2020
+7,GC-MS,HF-EME-micro-DLLME,Cheese,87-95,0.5-10000,0.4-0.7,6.3-9.1,>0.9878,29-36,Current research

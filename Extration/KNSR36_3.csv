@@ -1,0 +1,7 @@
+,0,1,2,3,4,5
+0,,Trip distance,Relative distance,Trip distance,Relative distance,% Increase in distance
+1,Depot,Jan (km),(Jan) Index,May (km),(May) Index,travelled January and May
+2,Depot A,301,100,492,100,64
+3,Depot B,409,136,937,190,129
+4,Depot C,527,175,1403,285,166
+5,Depot D,643,214,1865,379,190
