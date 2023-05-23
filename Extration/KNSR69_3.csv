@@ -1,6 +1,0 @@
-,0,1,2,3,4
-0,,Neophilic attitudes,Neophobic attitudes,Initiative and purchase intention,Technological properties
-1,Neophilic attitudes,0.877,,,
-2,Neophobic attitudes,0.493,0.800,,
-3,Initiative and purchase intention,0.590,0.274,0.854,
-4,Technological properties,0.461,0.277,0.417,0.819

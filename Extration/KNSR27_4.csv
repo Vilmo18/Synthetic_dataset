@@ -1,9 +1,0 @@
-,0,1,2,3,4,5,6,7
-0,Xf prediction results,,,,Dispersibility prediction results,Dispersibility prediction results,,
-1,,Samples predicted,Samples predicted,Total,,Samplespredicted,Samples predicted,Total
-2,N/%,as 'Good',as Poor',samples,N/%,as Good',asPoor',samples
-3,Actual samples,49/70.0%,9/12.6%,58/,Actual samples,41/58.6%,6/8.6%,471
-4,'Good',,,82.8%,'Good',,,67.1%
-5,Actual samples,8/11.4%,7/10.0%,15/,Actual samples,0/0.0%,23/32.9%,23/
-6,Poor',,,21.4%,Poor,,,32.9%
-7,Total samples,57/81.4%,13/18.6%,70,Total samples,41/58.6%,29/41.4%,70
